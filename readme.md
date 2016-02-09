@@ -21,3 +21,9 @@ git merge --ff-only feature/foo
 ```
 
 [Source](http://stackoverflow.com/a/16358699/5147646)
+
+## List remote branches
+
+```
+git branch -r 
+```
