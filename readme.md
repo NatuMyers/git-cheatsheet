@@ -20,6 +20,15 @@ git add .; git commit -m "update"; git remote add origin URLHERE; git push -u or
 ```
 
 
+## Make a branch
+
+```
+
+git checkout -b [name_of_your_new_branch]
+git push origin [name_of_your_new_branch]
+```
+
+
 ## Delete branch both locally and remotely
 
 ```
