@@ -12,6 +12,14 @@ git push -u origin master
 ```
 
 
+## Post Initial Push
+
+```
+
+git add .; git commit -m "update"; git remote add origin URLHERE; git push -u origin master
+```
+
+
 ## Delete branch both locally and remotely
 
 ```
