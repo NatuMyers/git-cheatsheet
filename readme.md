@@ -1,7 +1,8 @@
 # Git Cheatsheet
 
 
-## Initial Crap
+## Initial
+Makes current directory a git repo (after you make a git repo on github.com first!)
 
 ```
 git init
