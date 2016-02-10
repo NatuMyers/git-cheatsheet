@@ -12,7 +12,7 @@ git push -u origin master
 ```
 
 
-## Post Initial Push
+## Post Initial Push (same minus git init)
 
 ```
 
