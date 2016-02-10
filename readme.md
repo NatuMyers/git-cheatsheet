@@ -1,5 +1,17 @@
 # Git Cheatsheet
 
+
+## Initial Crap
+
+```
+git init
+git add .
+git commit -m "init"
+git remote add origin URLHERE
+git push -u origin master
+```
+
+
 ## Delete branch both locally and remotely
 
 ```
