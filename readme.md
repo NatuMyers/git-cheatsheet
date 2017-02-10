@@ -58,3 +58,19 @@ git merge --ff-only feature/foo
 ```
 git branch -r 
 ```
+
+## Heroku Django database migrations
+```
+git add .; git commit -m "the message"; git push heroku master; git push origin master; heroku run python manage.py makemigrations; heroku run python manage.py migrate --run-syncdb
+```
+
+migrate offline then
+
+```
+heroku run python manage.py makemigrations; heroku run python manage.py migrate --run-syncdb
+```
+
+push to fork:
+```
+git add .; git commit -m "fork message"; git push forked master;
+```
