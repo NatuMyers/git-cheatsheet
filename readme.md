@@ -12,7 +12,7 @@ git commit -m "init"
 git remote add origin URLHERE
 git push -u origin master
 ```
-
+ 
 
 ## Post Initial Push (same minus git init)
 
